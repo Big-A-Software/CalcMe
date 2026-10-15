@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalcMe/CalcMe.vbproj" />
+  <Project Path="CalcmeSetup/CalcmeSetup.vdproj" Type="Installer" />
+</Solution>
